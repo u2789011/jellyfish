@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5C3157Bf96CD3d0b277eE0c4c81C2e4D7039647E",
+  "SCAN_LINK": "https://polygonscan.com/address/0x5c3157bf96cd3d0b277ee0c4c81c2e4d7039647e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Jelly Fish",
+  "SYMBOL": "JF",
+  "MAX_SUPPLY": 25,
+  "WEI_COST": 330000000000000000 ,
+  "DISPLAY_COST": 0.33,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/jellyfish-0822",
+  "SHOW_BACKGROUND": true
+}
